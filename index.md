@@ -11,7 +11,7 @@ auto-migrated: 1
 
 ---
 
-##Welcome to the OWASP Indianapolis Chapter Page!
+## Welcome to the OWASP Indianapolis Chapter Page!
 We meet quarterly.  Find out more at [OWASP Indianapolis on Meetup](https://www.meetup.com/indyowasp/)
 
 
