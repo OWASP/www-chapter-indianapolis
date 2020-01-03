@@ -6,4 +6,4 @@
 * [Social Link](#)-->
 ### Social Links
 * [Meetup](https://www.meetup.com/indyowasp/)
-* [@OWASPIndy](https://twitter.com/OWASPIndy)-->
+* [@OWASPIndy](https://twitter.com/OWASPIndy)
