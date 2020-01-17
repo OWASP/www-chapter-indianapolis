@@ -21,8 +21,8 @@ Speaking at OWASP Indianapolis Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on application security at future OWASP Indianapolis Chapter events,  please review the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract, and speaker bio to the chapter leaders. 
 
-
-
+#### Call For Sponsors
+We are always looking for sponsors for meeting space and/or refreshements.  If you're interested, please reach out and we'd love to partner with you!
 
 
 ## Participate in OWASP 
