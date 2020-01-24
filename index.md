@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Indianapolis
 tags: indianapolis
 order: 1
-region: United States
+region: North America
 ---
 Welcome to the Indianapolis chapter homepage. The chapter leaders are <a href="mailto:todd.grotenhuis@owasp.org">Todd Grotenhuis</a>, <a href="mailto:carl.sampson@owasp.org">Carl Sampson</a>, <a href="mailto:damian.profancik@owasp.org">Damian Profancik</a>, and <a href="mailto:landon.lewis@owasp.org">Landon Lewis</a>.
 
