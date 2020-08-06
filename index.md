@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Indianapolis
 tags: indianapolis
 order: 1
-region: North Americ
+region: North America
 meetup-group: indyowasp
 country: USA
 postal-code: 46240
