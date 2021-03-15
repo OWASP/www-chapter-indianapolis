@@ -5,5 +5,5 @@
 * [Meetup](#)
 * [Social Link](#)-->
 ### Social Links
-* [Meetup](https://www.meetup.com/indyowasp/)
+* [Find Us on Meetup](https://www.meetup.com/indyowasp/)
 * [@OWASPIndy](https://twitter.com/OWASPIndy)
