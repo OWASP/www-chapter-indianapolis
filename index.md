@@ -15,6 +15,7 @@ Welcome to the Indianapolis chapter homepage. The chapter leaders are <a href="m
 Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](https://twitter.com/OWASPIndy)
 
 Check Our Upcoming Meetup Events
+---------------------------------------
  {% include chapter_events.html group=page.meetup-group %};
 
 Speaking at OWASP Indianapolis Chapter Events
