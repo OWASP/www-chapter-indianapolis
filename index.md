@@ -8,20 +8,26 @@ region: North America
 meetup-group: indyowasp
 country: USA
 postal-code: 46240
+meetup-group: indyowasp
 
 ---
 Welcome to the Indianapolis chapter homepage. The chapter leaders are <a href="mailto:todd.grotenhuis@owasp.org">Todd Grotenhuis</a>, <a href="mailto:carl.sampson@owasp.org">Carl Sampson</a>, <a href="mailto:damian.profancik@owasp.org">Damian Profancik</a>, and <a href="mailto:justin.baxtron@owasp.org">Justin Baxtron</a>.
 
 Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](https://twitter.com/OWASPIndy)
 
+### Upcoming Events
+
+## Next Meeting
+{% include chapter_events.html group=page.meetup-group %}
+
 Speaking at OWASP Indianapolis Chapter Events
 ---------------------------------------
 
-#### Call For Speakers
+### Call For Speakers
 
 Call For Speakers is open - if you would like to present a talk on application security at future OWASP Indianapolis Chapter events,  please review the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract, and speaker bio to the chapter leaders. 
 
-#### Call For Sponsors
+### Call For Sponsors
 We are always looking for sponsors for meeting space and/or refreshements.  If you're interested, please reach out and we'd love to partner with you!
 
 
