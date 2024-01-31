@@ -11,7 +11,7 @@ postal-code: 46240
 meetup-group: indyowasp
 
 ---
-Welcome to the Indianapolis chapter homepage. The chapter leaders are <a href="mailto:todd.grotenhuis@owasp.org">Todd Grotenhuis</a>, <a href="mailto:carl.sampson@owasp.org">Carl Sampson</a>, <a href="mailto:damian.profancik@owasp.org">Damian Profancik</a>, and <a href="mailto:justin.baxtron@owasp.org">Justin Baxtron</a>.
+Welcome to the Indianapolis chapter homepage. The chapter leaders are <a href="mailto:carl.sampson@owasp.org">Carl Sampson</a>,<a href="mailto:todd.grotenhuis@owasp.org">Todd Grotenhuis</a>, <a href="mailto:damian.profancik@owasp.org">Damian Profancik</a>, and <a href="mailto:justin.baxtron@owasp.org">Justin Baxtron</a>.
 
 Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](https://twitter.com/OWASPIndy)
 
