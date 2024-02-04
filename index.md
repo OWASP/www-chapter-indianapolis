@@ -19,6 +19,7 @@ Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](h
 
 ### Next Meeting
 {% include chapter_events.html group=page.meetup-group %}
+---------------------------------------
 
 Speaking at OWASP Indianapolis Chapter Events
 ---------------------------------------
