@@ -22,7 +22,7 @@ Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](h
 ---------------------------------------
 
 ### Previous Meetings
-- [2/8/2024](https://www.dropbox.com/scl/fi/rri4g7r2v87balhnqqtba/GMT20240208-170836_Recording_3840x2160.mp4?rlkey=g0epbuspmwr6sgzw1g782e7v3&dl=0)
+- [2/8/2024 - Build Your Own AI Assistant: Leveraging LLMs in Vulnerability Management Workflows with Jonathan Dutson](https://www.dropbox.com/scl/fi/rri4g7r2v87balhnqqtba/GMT20240208-170836_Recording_3840x2160.mp4?rlkey=g0epbuspmwr6sgzw1g782e7v3&dl=0)
 
 Speaking at OWASP Indianapolis Chapter Events
 ---------------------------------------
