@@ -21,9 +21,8 @@ Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](h
 {% include chapter_events.html group=page.meetup-group %}
 ---------------------------------------
 
-### Previous Meeings
+### Previous Meetings
 - [2/8/2024](https://www.dropbox.com/scl/fi/rri4g7r2v87balhnqqtba/GMT20240208-170836_Recording_3840x2160.mp4?rlkey=g0epbuspmwr6sgzw1g782e7v3&dl=0)
----------------------------------------
 
 Speaking at OWASP Indianapolis Chapter Events
 ---------------------------------------
