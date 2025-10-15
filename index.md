@@ -24,6 +24,15 @@ Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](h
 
 - [9/9/2025 - Secure Vibe Coding: 5 Key Lessons with Nate Michalov and From the Engineering Trenches: What Every CISO Needs to Know About AI Development with David Hafley](https://www.meetup.com/indyowasp/events/310486026/?eventOrigin=group_events_list)
 
+- [4/17/2025 - From Adversaries to Allies: Developers and AppSec, a Love-Hate-Love Relationship](https://www.meetup.com/indyowasp/events/306650124/?eventOrigin=group_events_list)
+
+- [12/14/2024 - Q4 Meeting - Social with IndyHackers](https://www.meetup.com/indyowasp/events/303813178/?eventOrigin=group_events_list)
+
+- [12/6/2024 - Secure Coding Tournament with Security Journey](https://www.meetup.com/indyowasp/events/304526987/?eventOrigin=group_events_list)
+
+- [11/7/2024 - Indy OWASP November 2024 Meetup](https://www.meetup.com/indyowasp/events/303946344/?eventOrigin=group_events_list)
+
+
 - [2/8/2024 - Build Your Own AI Assistant: Leveraging LLMs in Vulnerability Management Workflows with Jonathan Dutson](https://www.dropbox.com/scl/fi/rri4g7r2v87balhnqqtba/GMT20240208-170836_Recording_3840x2160.mp4?rlkey=g0epbuspmwr6sgzw1g782e7v3&dl=0)
 
 Speaking at OWASP Indianapolis Chapter Events
