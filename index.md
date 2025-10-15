@@ -22,7 +22,7 @@ Follow chapter news: | [Meetup](https://www.meetup.com/indyowasp/) | [Twitter](h
 
 ### Previous Meetings
 
-- [9/9/2025 - Secure Vibe Coding: 5 Key Lessons with Nate Michalov and From the Engineering Trenches: What Every CISO Needs to Know About AI Development with David Hafley] (https://www.meetup.com/indyowasp/events/310486026/?eventOrigin=group_events_list)
+- [9/9/2025 - Secure Vibe Coding: 5 Key Lessons with Nate Michalov and From the Engineering Trenches: What Every CISO Needs to Know About AI Development with David Hafley](https://www.meetup.com/indyowasp/events/310486026/?eventOrigin=group_events_list)
 
 - [2/8/2024 - Build Your Own AI Assistant: Leveraging LLMs in Vulnerability Management Workflows with Jonathan Dutson](https://www.dropbox.com/scl/fi/rri4g7r2v87balhnqqtba/GMT20240208-170836_Recording_3840x2160.mp4?rlkey=g0epbuspmwr6sgzw1g782e7v3&dl=0)
 
