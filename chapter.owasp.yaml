@@ -1,0 +1,33 @@
+community:
+  - name: chapter-indianapolis
+    platform: slack
+    url: https://owasp.slack.com/archives/C84AZ6D5G
+leaders:
+  - name: Carl Sampson
+    email: carl.sampson@owasp.org
+    github: sampsonc
+  - name: Todd Grotenhuis
+    email: todd.grotenhuis@owasp.org
+  - name: Damian Profancik
+    email: damian.profancik@owasp.org
+  - name: Justin Baxtron
+    email: justin.baxtron@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Indiana
+  city: Indianapolis
+  postal_code: '46240'
+  latitude: 39.7683331
+  longitude: -86.1583502
+meetup_group: indyowasp
+name: OWASP Indianapolis
+repositories:
+  - name: www-chapter-indianapolis
+    url: https://github.com/OWASP/www-chapter-indianapolis
+    description: OWASP Foundation Web Repository
+tags:
+  - indianapolis
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-indianapolis
